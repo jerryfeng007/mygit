@@ -12,3 +12,5 @@ fine,thank you,and you?
 clone到本地之后，修改本地的
 
 先修改了remote，导致和本地不一致了
+
+本地 pull了最新的，然后本地又修改了
