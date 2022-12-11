@@ -17,4 +17,5 @@ clone到本地之后，修改本地的
 
 先修改了remote，再修改本地的，想验证 conflict
 后修改了本地，但是先修改了remote，想验证conflict
+使用ssh
 
