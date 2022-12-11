@@ -8,3 +8,5 @@ fine,thank you,and you?
 验证版本穿梭
 
 马上要进行第二次推送到远程仓库了，为了验证git push 别名 分支
+
+clone到本地之后，修改本地的
